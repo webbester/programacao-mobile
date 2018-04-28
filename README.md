@@ -1,5 +1,6 @@
-# programacao-mobile
+Antonio Marcos da Silva Pires
+Rodrigo Ferreira dos Anjos
 
-https://www.thiengo.com.br/como-criar-prototipos-android
+Este projeto se restringe ao desenvolvimento de um aplicativo com qual contara com a funcionalidade específica de trocas de jogos, por gênero, plataforma, ou nome do jogo.
 
-https://marvelapp.com/project/2939659/
+API: Android 4.4 KitKat
