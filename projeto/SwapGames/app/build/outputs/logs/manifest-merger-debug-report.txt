@@ -1,150 +1,303 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml:2:1-21:12
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\83b93f73370af24c65a0ce5c6d64ef43\AndroidManifest.xml:17:1-31:12
+ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:2:1-79:12
+MERGED from [com.android.databinding:adapters:3.1.1] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\adapters-3.1.1.aar\6c124ba444c7a068cf44c09f83936869\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.1.1] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\library-3.1.1.aar\e577ba87fa494e1c98adef9ffc93d4eb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3a080b03c97a1f4f0b837603a4d3a379\AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.33.0.aar\2462ca8d51f5fba4ac584b1ef10277c4\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-login-4.33.0.aar\20903cfaf37167aa1914a66389762d1d\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-share-4.33.0.aar\cc1cc28740577647278562b91f650d2d\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\a92774665617075ae716ce9420c286c5\AndroidManifest.xml:21:1-36:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\2e19d1fa4bef5171bfd34048280ef91b\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\bce28466829feae0360247415503a94e\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8482ecb211c56d0eda5c86358c252f13\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a1486ea84fa83d56c7299fb49d6a239c\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e703dee999aa79ca19ea1eb5ed9e6dba\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c11c919ce09db7c77b4864bd35a9cce5\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3d5b274c8d445c4c5e85815a07a28953\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1d1bd456e1bde6d3643d0e65070668c8\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9e2abd6deb44b950a4893e1957a521cf\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f615a4c8cf0bafca7e72c717345748a7\AndroidManifest.xml:17:1-31:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\535f4729699f3c755ef2fcf7b440b040\AndroidManifest.xml:17:1-30:12
-INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\a2c45696f986147d327f40d7babd47fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3574a1772f0547fb2eee58d88a9d61b3\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\b5c12209ff1f4fa2cc0bdca503879fac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\e1f1492df7105d03bce7dad30f48ce73\AndroidManifest.xml:17:1-28:12
+MERGED from [com.facebook.android:facebook-places:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-places-4.33.0.aar\8a9a7ad48ff581556d2daef57d4cb9ff\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.33.0.aar\400857f7635d24186bc21f4a3904997a\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.33.0.aar\b04af24c1a0ef1955194df1a3dee9f7a\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\bb9364e84f994784b141b6150e8b36f4\AndroidManifest.xml:21:1-53:12
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\17734af6a92209d32c92cd518710fe48\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\7f144e86dd04ba205e4c37f617b56ba6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\cc6e1716f12c73a6e532845c26227e20\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\e60719b7a76fbcb872c70b6aeed329ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\26a4db25e0cedceee5492e2eb68ea648\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\16a780741cd65de2af3fb77ed52f2c58\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\01914aeea9db00cc210fdab529c65741\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\e3742678a38826fce466745bb238f807\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\5364b40ffd135c5ba5f81e1df082645c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\71aa1a6d92ab66e156420f7beb6b8247\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\19f78d8ef6ad3740a8f595baeab9d431\AndroidManifest.xml:2:1-11:12
+INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:2:1-79:12
 	package
-		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml:3:5-38
-		INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml
-		INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml
+		INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml
-		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml
+		INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:2:1-79:12
+		INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml
-		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml
+		INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:2:1-79:12
+		INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:19:22-77
+uses-feature#android.hardware.camera
+ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:23:9-47
 application
-ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml:5:5-19:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\83b93f73370af24c65a0ce5c6d64ef43\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\83b93f73370af24c65a0ce5c6d64ef43\AndroidManifest.xml:25:5-29:19
+ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:26:5-78:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3a080b03c97a1f4f0b837603a4d3a379\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3a080b03c97a1f4f0b837603a4d3a379\AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.33.0.aar\2462ca8d51f5fba4ac584b1ef10277c4\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.33.0.aar\2462ca8d51f5fba4ac584b1ef10277c4\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-login-4.33.0.aar\20903cfaf37167aa1914a66389762d1d\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-login-4.33.0.aar\20903cfaf37167aa1914a66389762d1d\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-share-4.33.0.aar\cc1cc28740577647278562b91f650d2d\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-share-4.33.0.aar\cc1cc28740577647278562b91f650d2d\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\a92774665617075ae716ce9420c286c5\AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-common:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\a92774665617075ae716ce9420c286c5\AndroidManifest.xml:28:5-34:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\bce28466829feae0360247415503a94e\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\bce28466829feae0360247415503a94e\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8482ecb211c56d0eda5c86358c252f13\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8482ecb211c56d0eda5c86358c252f13\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a1486ea84fa83d56c7299fb49d6a239c\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a1486ea84fa83d56c7299fb49d6a239c\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e703dee999aa79ca19ea1eb5ed9e6dba\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e703dee999aa79ca19ea1eb5ed9e6dba\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c11c919ce09db7c77b4864bd35a9cce5\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c11c919ce09db7c77b4864bd35a9cce5\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3d5b274c8d445c4c5e85815a07a28953\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3d5b274c8d445c4c5e85815a07a28953\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1d1bd456e1bde6d3643d0e65070668c8\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1d1bd456e1bde6d3643d0e65070668c8\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9e2abd6deb44b950a4893e1957a521cf\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9e2abd6deb44b950a4893e1957a521cf\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f615a4c8cf0bafca7e72c717345748a7\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f615a4c8cf0bafca7e72c717345748a7\AndroidManifest.xml:25:5-29:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\535f4729699f3c755ef2fcf7b440b040\AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\535f4729699f3c755ef2fcf7b440b040\AndroidManifest.xml:24:5-28:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3574a1772f0547fb2eee58d88a9d61b3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3574a1772f0547fb2eee58d88a9d61b3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\e1f1492df7105d03bce7dad30f48ce73\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\e1f1492df7105d03bce7dad30f48ce73\AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.android:facebook-places:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-places-4.33.0.aar\8a9a7ad48ff581556d2daef57d4cb9ff\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-places-4.33.0.aar\8a9a7ad48ff581556d2daef57d4cb9ff\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.33.0.aar\400857f7635d24186bc21f4a3904997a\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.33.0.aar\400857f7635d24186bc21f4a3904997a\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.33.0.aar\b04af24c1a0ef1955194df1a3dee9f7a\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.33.0.aar\b04af24c1a0ef1955194df1a3dee9f7a\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\bb9364e84f994784b141b6150e8b36f4\AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\bb9364e84f994784b141b6150e8b36f4\AndroidManifest.xml:28:5-51:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\19f78d8ef6ad3740a8f595baeab9d431\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\19f78d8ef6ad3740a8f595baeab9d431\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:31:9-35
 	android:label
-		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:29:9-41
 	android:roundIcon
-		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:30:9-54
 	android:icon
-		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:28:9-49
 	android:allowBackup
-		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:27:9-35
 	android:theme
-		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:32:9-40
 activity#br.com.tuiuti.swapgames.MainActivity
-ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:37:9-43:20
 	android:name
-		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:37:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:38:13-42:29
 action#android.intent.action.MAIN
-ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:39:17-69
 	android:name
-		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:39:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:41:17-77
 	android:name
-		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:41:27-74
+activity#br.com.tuiuti.swapgames.activities.LoginActivity_
+ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:46:9-47:56
+	android:name
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:47:13-54
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:52:9-54:55
+	android:value
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:54:13-52
+	android:name
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:53:13-58
+activity#com.facebook.FacebookActivity
+ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:56:9-59:48
+MERGED from [com.facebook.android:facebook-common:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\a92774665617075ae716ce9420c286c5\AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-common:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\a92774665617075ae716ce9420c286c5\AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:59:13-45
+	android:configChanges
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:58:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\a92774665617075ae716ce9420c286c5\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:57:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:60:9-71:20
+	android:exported
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:62:13-36
+	android:name
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:61:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/fb_login_protocol_scheme
+ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:63:13-70:29
+action#android.intent.action.VIEW
+ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:64:17-69
+	android:name
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:64:25-66
+category#android.intent.category.DEFAULT
+ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:66:17-76
+	android:name
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:66:27-73
+category#android.intent.category.BROWSABLE
+ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:67:17-78
+	android:name
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:67:27-75
+data
+ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:69:17-75
+	android:scheme
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:69:23-72
+activity#br.com.tuiuti.swapgames.activities.HomeActivity_
+ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:73:9-77:20
+	android:label
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:75:13-56
+	android:theme
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:76:13-56
+	android:name
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml:74:13-53
 uses-sdk
-INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml
-INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\83b93f73370af24c65a0ce5c6d64ef43\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\83b93f73370af24c65a0ce5c6d64ef43\AndroidManifest.xml:21:5-23:78
+INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml
+INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.1.1] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\adapters-3.1.1.aar\6c124ba444c7a068cf44c09f83936869\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.1.1] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\adapters-3.1.1.aar\6c124ba444c7a068cf44c09f83936869\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.1] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\library-3.1.1.aar\e577ba87fa494e1c98adef9ffc93d4eb\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.1] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\library-3.1.1.aar\e577ba87fa494e1c98adef9ffc93d4eb\AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:design:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3a080b03c97a1f4f0b837603a4d3a379\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3a080b03c97a1f4f0b837603a4d3a379\AndroidManifest.xml:21:5-23:62
+MERGED from [com.facebook.android:facebook-android-sdk:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.33.0.aar\2462ca8d51f5fba4ac584b1ef10277c4\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.33.0.aar\2462ca8d51f5fba4ac584b1ef10277c4\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-login-4.33.0.aar\20903cfaf37167aa1914a66389762d1d\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-login-4.33.0.aar\20903cfaf37167aa1914a66389762d1d\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-share-4.33.0.aar\cc1cc28740577647278562b91f650d2d\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-share-4.33.0.aar\cc1cc28740577647278562b91f650d2d\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\a92774665617075ae716ce9420c286c5\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\a92774665617075ae716ce9420c286c5\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\2e19d1fa4bef5171bfd34048280ef91b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\2e19d1fa4bef5171bfd34048280ef91b\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\bce28466829feae0360247415503a94e\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\bce28466829feae0360247415503a94e\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8482ecb211c56d0eda5c86358c252f13\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8482ecb211c56d0eda5c86358c252f13\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a1486ea84fa83d56c7299fb49d6a239c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a1486ea84fa83d56c7299fb49d6a239c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e703dee999aa79ca19ea1eb5ed9e6dba\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e703dee999aa79ca19ea1eb5ed9e6dba\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c11c919ce09db7c77b4864bd35a9cce5\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c11c919ce09db7c77b4864bd35a9cce5\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3d5b274c8d445c4c5e85815a07a28953\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3d5b274c8d445c4c5e85815a07a28953\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1d1bd456e1bde6d3643d0e65070668c8\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1d1bd456e1bde6d3643d0e65070668c8\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9e2abd6deb44b950a4893e1957a521cf\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9e2abd6deb44b950a4893e1957a521cf\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f615a4c8cf0bafca7e72c717345748a7\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f615a4c8cf0bafca7e72c717345748a7\AndroidManifest.xml:21:5-23:58
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\535f4729699f3c755ef2fcf7b440b040\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\535f4729699f3c755ef2fcf7b440b040\AndroidManifest.xml:20:5-22:41
-INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml
-INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\a2c45696f986147d327f40d7babd47fa\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\a2c45696f986147d327f40d7babd47fa\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3574a1772f0547fb2eee58d88a9d61b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3574a1772f0547fb2eee58d88a9d61b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\b5c12209ff1f4fa2cc0bdca503879fac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\b5c12209ff1f4fa2cc0bdca503879fac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\e1f1492df7105d03bce7dad30f48ce73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\e1f1492df7105d03bce7dad30f48ce73\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-places-4.33.0.aar\8a9a7ad48ff581556d2daef57d4cb9ff\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-places-4.33.0.aar\8a9a7ad48ff581556d2daef57d4cb9ff\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.33.0.aar\400857f7635d24186bc21f4a3904997a\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.33.0.aar\400857f7635d24186bc21f4a3904997a\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.33.0.aar\b04af24c1a0ef1955194df1a3dee9f7a\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.33.0.aar\b04af24c1a0ef1955194df1a3dee9f7a\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\bb9364e84f994784b141b6150e8b36f4\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\bb9364e84f994784b141b6150e8b36f4\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\17734af6a92209d32c92cd518710fe48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\17734af6a92209d32c92cd518710fe48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\7f144e86dd04ba205e4c37f617b56ba6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\7f144e86dd04ba205e4c37f617b56ba6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\cc6e1716f12c73a6e532845c26227e20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\cc6e1716f12c73a6e532845c26227e20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\e60719b7a76fbcb872c70b6aeed329ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\e60719b7a76fbcb872c70b6aeed329ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\26a4db25e0cedceee5492e2eb68ea648\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\26a4db25e0cedceee5492e2eb68ea648\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\16a780741cd65de2af3fb77ed52f2c58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\16a780741cd65de2af3fb77ed52f2c58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\01914aeea9db00cc210fdab529c65741\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\01914aeea9db00cc210fdab529c65741\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\e3742678a38826fce466745bb238f807\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\e3742678a38826fce466745bb238f807\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\5364b40ffd135c5ba5f81e1df082645c\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\5364b40ffd135c5ba5f81e1df082645c\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\71aa1a6d92ab66e156420f7beb6b8247\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\71aa1a6d92ab66e156420f7beb6b8247\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\19f78d8ef6ad3740a8f595baeab9d431\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\19f78d8ef6ad3740a8f595baeab9d431\AndroidManifest.xml:5:5-7:41
+INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml
+INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\83b93f73370af24c65a0ce5c6d64ef43\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:design:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3a080b03c97a1f4f0b837603a4d3a379\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml
-		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml
-		INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml
+		INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml
+		INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml
-		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml
-		INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\swapGames\app\src\main\AndroidManifest.xml
+		INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml
+		ADDED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml
+		INJECTED from E:\5_Periodo\desenvolvimento_android\programacao-mobile\trunk\projeto\SwapGames\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\83b93f73370af24c65a0ce5c6d64ef43\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8482ecb211c56d0eda5c86358c252f13\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8482ecb211c56d0eda5c86358c252f13\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a1486ea84fa83d56c7299fb49d6a239c\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a1486ea84fa83d56c7299fb49d6a239c\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e703dee999aa79ca19ea1eb5ed9e6dba\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e703dee999aa79ca19ea1eb5ed9e6dba\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c11c919ce09db7c77b4864bd35a9cce5\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c11c919ce09db7c77b4864bd35a9cce5\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3d5b274c8d445c4c5e85815a07a28953\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3d5b274c8d445c4c5e85815a07a28953\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1d1bd456e1bde6d3643d0e65070668c8\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1d1bd456e1bde6d3643d0e65070668c8\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9e2abd6deb44b950a4893e1957a521cf\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9e2abd6deb44b950a4893e1957a521cf\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f615a4c8cf0bafca7e72c717345748a7\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f615a4c8cf0bafca7e72c717345748a7\AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:design:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3a080b03c97a1f4f0b837603a4d3a379\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3574a1772f0547fb2eee58d88a9d61b3\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3574a1772f0547fb2eee58d88a9d61b3\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\e1f1492df7105d03bce7dad30f48ce73\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\e1f1492df7105d03bce7dad30f48ce73\AndroidManifest.xml:23:9-25:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\83b93f73370af24c65a0ce5c6d64ef43\AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:design:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3a080b03c97a1f4f0b837603a4d3a379\AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\83b93f73370af24c65a0ce5c6d64ef43\AndroidManifest.xml:27:13-51
-meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\535f4729699f3c755ef2fcf7b440b040\AndroidManifest.xml:25:9-27:47
-	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\535f4729699f3c755ef2fcf7b440b040\AndroidManifest.xml:27:13-44
+		ADDED from [com.android.support:design:26.1.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3a080b03c97a1f4f0b837603a4d3a379\AndroidManifest.xml:27:13-51
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\a92774665617075ae716ce9420c286c5\AndroidManifest.xml:33:9-71
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\535f4729699f3c755ef2fcf7b440b040\AndroidManifest.xml:26:13-58
+		ADDED from [com.facebook.android:facebook-common:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-common-4.33.0.aar\a92774665617075ae716ce9420c286c5\AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\bb9364e84f994784b141b6150e8b36f4\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\bb9364e84f994784b141b6150e8b36f4\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\bb9364e84f994784b141b6150e8b36f4\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\bb9364e84f994784b141b6150e8b36f4\AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\bb9364e84f994784b141b6150e8b36f4\AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\bb9364e84f994784b141b6150e8b36f4\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\bb9364e84f994784b141b6150e8b36f4\AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\bb9364e84f994784b141b6150e8b36f4\AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\bb9364e84f994784b141b6150e8b36f4\AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.33.0] C:\Users\rodri\.gradle\caches\transforms-1\files-1.1\facebook-core-4.33.0.aar\bb9364e84f994784b141b6150e8b36f4\AndroidManifest.xml:48:25-92

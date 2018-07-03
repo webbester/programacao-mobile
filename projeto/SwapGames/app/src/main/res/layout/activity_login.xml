@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--=========================================================================================-->
+    <!-- REGIAO DOS DADOS .......................................................................-->
+    <!--=========================================================================================-->
+
+    <!--Nesta regiao sao declaradas as variaveis que serao importadas do codigo da activity-->
+
+    <data>
+
+    </data>
+
+    <!--=========================================================================================-->
+    <!-- REGIAO DOS DADOS .......................................................................-->
+    <!--=========================================================================================-->
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerVertical="true" />
+
+            <Button
+                android:id="@+id/login_btn_semlogin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:text="@string/login_btn_semlogin" />
+
+            <com.facebook.login.widget.LoginButton
+                android:id="@+id/login_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/login_btn_semlogin"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginEnd="16dp"
+                android:layout_marginStart="16dp" />
+
+        </RelativeLayout>
+
+    </FrameLayout>
+</layout>

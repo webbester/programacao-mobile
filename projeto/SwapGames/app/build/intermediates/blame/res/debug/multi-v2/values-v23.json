@@ -1,10 +1,29 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\5_Periodo\\desenvolvimento_android\\programacao-mobile\\trunk\\projeto\\swapGames\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "E:\\5_Periodo\\desenvolvimento_android\\programacao-mobile\\trunk\\projeto\\SwapGames\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\rodri\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\83b93f73370af24c65a0ce5c6d64ef43\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\rodri\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-27.0.2.aar\\71aa1a6d92ab66e156420f7beb6b8247\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "2646",
+                        "endLines": "39",
+                        "endColumns": "12",
+                        "endOffsets": "2791"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\rodri\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\2e19d1fa4bef5171bfd34048280ef91b\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

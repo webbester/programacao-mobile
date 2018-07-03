@@ -1,9 +1,25 @@
+// Android Annotations
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        // replace with the current version of the Android plugin
+        classpath 'com.android.tools.build:gradle:2.3.0'
+    }
+}
+
+repositories {
+    mavenCentral()
+    mavenLocal()
+}
+
 apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "br.com.tuiuti.swapgames"
+        applicationId 'br.com.tuiuti.swapgames'
         minSdkVersion 19
         targetSdkVersion 26
         versionCode 1
@@ -16,6 +32,16 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    // -- Incluir databinding (Habilita a criacao das classes de binding)
+    dataBinding {
+        enabled = true
+    }
+    compileOptions {
+        targetCompatibility 1.8
+        sourceCompatibility 1.8
+    }
+    productFlavors {
+    }
 }
 
 dependencies {
@@ -25,4 +51,30 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+
+    implementation 'com.android.support:multidex:1.0.3'
+    implementation 'com.android.support:support-v4:26.1.0'
+    implementation "com.android.support:appcompat-v7:26.1.0"
+    implementation 'com.android.support:design:26.1.0'
+    implementation 'com.android.support:support-annotations:26.1.0'
+
+    implementation 'com.android.support:cardview-v7:26.1.0'
+    implementation 'com.android.support:recyclerview-v7:26.1.0'
+
+    // Android Annotations - https://github.com/androidannotations/
+    annotationProcessor "org.androidannotations:androidannotations:4.4.0"
+    implementation "org.androidannotations:androidannotations-api:4.4.0"
+
+    // SDK do facebook
+    implementation 'com.facebook.android:facebook-android-sdk:4.33.0'
+
+    // Imagens circulares
+    implementation 'de.hdodenhof:circleimageview:2.2.0'
+
+    // WebServices
+    implementation 'com.squareup.retrofit2:retrofit:2.4.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.4.0'
+
+    implementation 'com.squareup.okhttp3:okhttp:3.10.0'
+    implementation 'com.squareup.okhttp3:logging-interceptor:3.10.0'
 }

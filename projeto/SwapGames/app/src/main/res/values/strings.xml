@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">swapGames</string>
+    <string name="app_name">Swap Games</string>
+    <string name="login_btn_facebook">Login com Facebook</string>
+    <string name="login_btn_semlogin">Entrar sem Login</string>
+
+    <!--String utilizadas pelo Facebook-->
+    <string name="facebook_app_id">1448730741899021</string>
+    <string name="fb_login_protocol_scheme">fb1448730741899021</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
 </resources>

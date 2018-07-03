@@ -1,0 +1,4 @@
+#Mon Jul 02 22:17:21 BRT 2018
+base.0=E\:\\5_Periodo\\desenvolvimento_android\\programacao-mobile\\trunk\\projeto\\SwapGames\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

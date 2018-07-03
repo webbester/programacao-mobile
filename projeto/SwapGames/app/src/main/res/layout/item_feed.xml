@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- DADOS -->
+    <data>
+        <!--<variable
+            name="estado"
+            type="br.com.tuiuti.app04_brothersnetwork.model.Estado"/>-->
+
+        <variable
+            name="busca"
+            type="br.com.tuiuti.swapgames.model.Busca"/>
+
+    </data>
+
+
+    <!-- Layout -->
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        app:cardElevation="5dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/item_feed_fotourl"
+                android:layout_width="50dp"
+                android:layout_height="70dp"
+                android:layout_centerVertical="true"
+                android:layout_margin="16dp"
+                android:src="@drawable/ic_usuario"/>
+
+            <TextView
+                android:id="@+id/item_feed_nome"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/item_feed_fotourl"
+                android:layout_marginEnd="16dp"
+                android:layout_toEndOf="@+id/item_feed_fotourl"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:textSize="18dp"
+                android:text="@{busca.nome}"
+                tools:text="Homer Simpson"/>
+
+            <TextView
+                android:id="@+id/item_feed_editor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/item_feed_nome"
+                android:layout_marginEnd="16dp"
+                android:layout_toEndOf="@+id/item_feed_fotourl"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:text="@{busca.editor}"
+                tools:text="email@email"/>
+
+            <TextView
+                android:id="@+id/item_feed_estilo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/item_feed_editor"
+                android:layout_marginEnd="16dp"
+                android:layout_toEndOf="@+id/item_feed_fotourl"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:text="@{busca.estilo}"
+                tools:text="email@email"/>
+
+            <TextView
+                android:id="@+id/item_feed_plataforma"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/item_feed_estilo"
+                android:layout_marginEnd="16dp"
+                android:layout_toEndOf="@+id/item_feed_fotourl"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:text="@{busca.plataforma}"
+                tools:text="email@email"/>
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+
+</layout>
